@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "290377538786",
+    "project_id": "st-annuarite",
+    "storage_bucket": "st-annuarite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290377538786:android:2fc1cf6c395f02afa652bb",
+        "android_client_info": {
+          "package_name": "com.example.ccm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPQ0hkqgqE-4d8LmuJpV4muw_FyKDnlZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
